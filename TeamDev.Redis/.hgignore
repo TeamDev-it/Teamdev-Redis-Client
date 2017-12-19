@@ -1,0 +1,8 @@
+glob:bin/*
+glob:obj/*
+glob:*.suo
+syntax: glob
+TestResults/*
+TeamDev.Redis.Test/TeamDev.Redis.Test.csproj.user
+glob:TraceAndTestImpact.testsettings
+glob:TeamDev.RedisProvider.vsmdi
